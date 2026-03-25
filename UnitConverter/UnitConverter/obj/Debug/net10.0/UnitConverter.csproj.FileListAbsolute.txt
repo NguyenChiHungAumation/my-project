@@ -1,0 +1,14 @@
+D:\PC-base\C#\Code\UnitConverter\UnitConverter\bin\Debug\net10.0\UnitConverter.exe
+D:\PC-base\C#\Code\UnitConverter\UnitConverter\bin\Debug\net10.0\UnitConverter.deps.json
+D:\PC-base\C#\Code\UnitConverter\UnitConverter\bin\Debug\net10.0\UnitConverter.runtimeconfig.json
+D:\PC-base\C#\Code\UnitConverter\UnitConverter\bin\Debug\net10.0\UnitConverter.dll
+D:\PC-base\C#\Code\UnitConverter\UnitConverter\bin\Debug\net10.0\UnitConverter.pdb
+D:\PC-base\C#\Code\UnitConverter\UnitConverter\obj\Debug\net10.0\UnitConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC-base\C#\Code\UnitConverter\UnitConverter\obj\Debug\net10.0\UnitConverter.AssemblyInfoInputs.cache
+D:\PC-base\C#\Code\UnitConverter\UnitConverter\obj\Debug\net10.0\UnitConverter.AssemblyInfo.cs
+D:\PC-base\C#\Code\UnitConverter\UnitConverter\obj\Debug\net10.0\UnitConverter.csproj.CoreCompileInputs.cache
+D:\PC-base\C#\Code\UnitConverter\UnitConverter\obj\Debug\net10.0\UnitConverter.dll
+D:\PC-base\C#\Code\UnitConverter\UnitConverter\obj\Debug\net10.0\refint\UnitConverter.dll
+D:\PC-base\C#\Code\UnitConverter\UnitConverter\obj\Debug\net10.0\UnitConverter.pdb
+D:\PC-base\C#\Code\UnitConverter\UnitConverter\obj\Debug\net10.0\UnitConverter.genruntimeconfig.cache
+D:\PC-base\C#\Code\UnitConverter\UnitConverter\obj\Debug\net10.0\ref\UnitConverter.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PC-base\\C#\\Code\\SensorManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D91E301-84B9-4458-0AAE-635D09633EC0}|SensorManager\\SensorManager.csproj|d:\\pc-base\\c#\\code\\sensormanager\\sensormanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D91E301-84B9-4458-0AAE-635D09633EC0}|SensorManager\\SensorManager.csproj|solutionrelative:sensormanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PC-base\\C#\\Code\\SensorManager\\SensorManager\\Program.cs",
+              "RelativeDocumentMoniker": "SensorManager\\Program.cs",
+              "ToolTip": "D:\\PC-base\\C#\\Code\\SensorManager\\SensorManager\\Program.cs",
+              "RelativeToolTip": "SensorManager\\Program.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAQwLMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T05:34:01.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
