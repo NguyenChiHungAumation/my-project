@@ -1,0 +1,15 @@
+D:\PC-base\C#\Code\MovingAverage\MovingAverage\bin\Debug\net10.0\MovingAverage.exe
+D:\PC-base\C#\Code\MovingAverage\MovingAverage\bin\Debug\net10.0\MovingAverage.deps.json
+D:\PC-base\C#\Code\MovingAverage\MovingAverage\bin\Debug\net10.0\MovingAverage.runtimeconfig.json
+D:\PC-base\C#\Code\MovingAverage\MovingAverage\bin\Debug\net10.0\MovingAverage.dll
+D:\PC-base\C#\Code\MovingAverage\MovingAverage\bin\Debug\net10.0\MovingAverage.pdb
+D:\PC-base\C#\Code\MovingAverage\MovingAverage\obj\Debug\net10.0\MovingAverage.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC-base\C#\Code\MovingAverage\MovingAverage\obj\Debug\net10.0\MovingAverage.AssemblyInfoInputs.cache
+D:\PC-base\C#\Code\MovingAverage\MovingAverage\obj\Debug\net10.0\MovingAverage.AssemblyInfo.cs
+D:\PC-base\C#\Code\MovingAverage\MovingAverage\obj\Debug\net10.0\MovingAverage.csproj.CoreCompileInputs.cache
+D:\PC-base\C#\Code\MovingAverage\MovingAverage\obj\Debug\net10.0\MovingAverage.sourcelink.json
+D:\PC-base\C#\Code\MovingAverage\MovingAverage\obj\Debug\net10.0\MovingAverage.dll
+D:\PC-base\C#\Code\MovingAverage\MovingAverage\obj\Debug\net10.0\refint\MovingAverage.dll
+D:\PC-base\C#\Code\MovingAverage\MovingAverage\obj\Debug\net10.0\MovingAverage.pdb
+D:\PC-base\C#\Code\MovingAverage\MovingAverage\obj\Debug\net10.0\MovingAverage.genruntimeconfig.cache
+D:\PC-base\C#\Code\MovingAverage\MovingAverage\obj\Debug\net10.0\ref\MovingAverage.dll
