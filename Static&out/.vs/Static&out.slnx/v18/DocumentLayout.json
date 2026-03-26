@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\PC-base\\C#\\Code\\Static\u0026out\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23B0A668-24FD-44EE-BBFF-D2703821ED7B}|Static\u0026out\\Static\u0026out.csproj|d:\\pc-base\\c#\\code\\static\u0026out\\static\u0026out\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23B0A668-24FD-44EE-BBFF-D2703821ED7B}|Static\u0026out\\Static\u0026out.csproj|solutionrelative:static\u0026out\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFA8999E-B81A-457E-A90A-403D91C307A2}|Static\u0026out\\Static\u0026out.csproj|d:\\pc-base\\c#\\code\\static\u0026out\\static\u0026out\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA8999E-B81A-457E-A90A-403D91C307A2}|Static\u0026out\\Static\u0026out.csproj|solutionrelative:static\u0026out\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Static\u0026out\\Program.cs",
               "ToolTip": "D:\\PC-base\\C#\\Code\\Static\u0026out\\Static\u0026out\\Program.cs",
               "RelativeToolTip": "Static\u0026out\\Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAwD8AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAiwJIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T08:50:32.936Z",
               "EditorCaption": ""
