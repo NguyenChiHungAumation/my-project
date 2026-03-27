@@ -1,0 +1,15 @@
+D:\PC-base\C#\Code\DeviceHierarchy\DeviceHierarchy\bin\Debug\net10.0\DeviceHierarchy.exe
+D:\PC-base\C#\Code\DeviceHierarchy\DeviceHierarchy\bin\Debug\net10.0\DeviceHierarchy.deps.json
+D:\PC-base\C#\Code\DeviceHierarchy\DeviceHierarchy\bin\Debug\net10.0\DeviceHierarchy.runtimeconfig.json
+D:\PC-base\C#\Code\DeviceHierarchy\DeviceHierarchy\bin\Debug\net10.0\DeviceHierarchy.dll
+D:\PC-base\C#\Code\DeviceHierarchy\DeviceHierarchy\bin\Debug\net10.0\DeviceHierarchy.pdb
+D:\PC-base\C#\Code\DeviceHierarchy\DeviceHierarchy\obj\Debug\net10.0\DeviceHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC-base\C#\Code\DeviceHierarchy\DeviceHierarchy\obj\Debug\net10.0\DeviceHierarchy.AssemblyInfoInputs.cache
+D:\PC-base\C#\Code\DeviceHierarchy\DeviceHierarchy\obj\Debug\net10.0\DeviceHierarchy.AssemblyInfo.cs
+D:\PC-base\C#\Code\DeviceHierarchy\DeviceHierarchy\obj\Debug\net10.0\DeviceHierarchy.csproj.CoreCompileInputs.cache
+D:\PC-base\C#\Code\DeviceHierarchy\DeviceHierarchy\obj\Debug\net10.0\DeviceHierarchy.sourcelink.json
+D:\PC-base\C#\Code\DeviceHierarchy\DeviceHierarchy\obj\Debug\net10.0\DeviceHierarchy.dll
+D:\PC-base\C#\Code\DeviceHierarchy\DeviceHierarchy\obj\Debug\net10.0\refint\DeviceHierarchy.dll
+D:\PC-base\C#\Code\DeviceHierarchy\DeviceHierarchy\obj\Debug\net10.0\DeviceHierarchy.pdb
+D:\PC-base\C#\Code\DeviceHierarchy\DeviceHierarchy\obj\Debug\net10.0\DeviceHierarchy.genruntimeconfig.cache
+D:\PC-base\C#\Code\DeviceHierarchy\DeviceHierarchy\obj\Debug\net10.0\ref\DeviceHierarchy.dll
