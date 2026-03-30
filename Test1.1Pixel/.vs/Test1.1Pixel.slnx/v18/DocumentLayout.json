@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PC-base\\C#\\Code\\Test1.1Pixel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20710FCD-4EEE-45DD-A657-3CE4B5EFCA9A}|Test1.1Pixel\\Test1.1Pixel.csproj|d:\\pc-base\\c#\\code\\test1.1pixel\\test1.1pixel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20710FCD-4EEE-45DD-A657-3CE4B5EFCA9A}|Test1.1Pixel\\Test1.1Pixel.csproj|solutionrelative:test1.1pixel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PC-base\\C#\\Code\\Test1.1Pixel\\Test1.1Pixel\\Program.cs",
+              "RelativeDocumentMoniker": "Test1.1Pixel\\Program.cs",
+              "ToolTip": "D:\\PC-base\\C#\\Code\\Test1.1Pixel\\Test1.1Pixel\\Program.cs",
+              "RelativeToolTip": "Test1.1Pixel\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T16:41:37.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PC-base\\C#\\Code\\Test1.5CountProduction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68056067-F964-3487-193F-F667617DAA60}|Test1.5CountProduction\\Test1.5CountProduction.csproj|d:\\pc-base\\c#\\code\\test1.5countproduction\\test1.5countproduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68056067-F964-3487-193F-F667617DAA60}|Test1.5CountProduction\\Test1.5CountProduction.csproj|solutionrelative:test1.5countproduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PC-base\\C#\\Code\\Test1.5CountProduction\\Test1.5CountProduction\\Program.cs",
+              "RelativeDocumentMoniker": "Test1.5CountProduction\\Program.cs",
+              "ToolTip": "D:\\PC-base\\C#\\Code\\Test1.5CountProduction\\Test1.5CountProduction\\Program.cs",
+              "RelativeToolTip": "Test1.5CountProduction\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowE0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T18:16:04.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

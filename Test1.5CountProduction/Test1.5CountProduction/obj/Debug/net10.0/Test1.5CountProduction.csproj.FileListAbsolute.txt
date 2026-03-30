@@ -1,0 +1,15 @@
+D:\PC-base\C#\Code\Test1.5CountProduction\Test1.5CountProduction\bin\Debug\net10.0\Test1.5CountProduction.exe
+D:\PC-base\C#\Code\Test1.5CountProduction\Test1.5CountProduction\bin\Debug\net10.0\Test1.5CountProduction.deps.json
+D:\PC-base\C#\Code\Test1.5CountProduction\Test1.5CountProduction\bin\Debug\net10.0\Test1.5CountProduction.runtimeconfig.json
+D:\PC-base\C#\Code\Test1.5CountProduction\Test1.5CountProduction\bin\Debug\net10.0\Test1.5CountProduction.dll
+D:\PC-base\C#\Code\Test1.5CountProduction\Test1.5CountProduction\bin\Debug\net10.0\Test1.5CountProduction.pdb
+D:\PC-base\C#\Code\Test1.5CountProduction\Test1.5CountProduction\obj\Debug\net10.0\Test1.5CountProduction.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC-base\C#\Code\Test1.5CountProduction\Test1.5CountProduction\obj\Debug\net10.0\Test1.5CountProduction.AssemblyInfoInputs.cache
+D:\PC-base\C#\Code\Test1.5CountProduction\Test1.5CountProduction\obj\Debug\net10.0\Test1.5CountProduction.AssemblyInfo.cs
+D:\PC-base\C#\Code\Test1.5CountProduction\Test1.5CountProduction\obj\Debug\net10.0\Test1.5CountProduction.csproj.CoreCompileInputs.cache
+D:\PC-base\C#\Code\Test1.5CountProduction\Test1.5CountProduction\obj\Debug\net10.0\Test1.5CountProduction.sourcelink.json
+D:\PC-base\C#\Code\Test1.5CountProduction\Test1.5CountProduction\obj\Debug\net10.0\Test1.5CountProduction.dll
+D:\PC-base\C#\Code\Test1.5CountProduction\Test1.5CountProduction\obj\Debug\net10.0\refint\Test1.5CountProduction.dll
+D:\PC-base\C#\Code\Test1.5CountProduction\Test1.5CountProduction\obj\Debug\net10.0\Test1.5CountProduction.pdb
+D:\PC-base\C#\Code\Test1.5CountProduction\Test1.5CountProduction\obj\Debug\net10.0\Test1.5CountProduction.genruntimeconfig.cache
+D:\PC-base\C#\Code\Test1.5CountProduction\Test1.5CountProduction\obj\Debug\net10.0\ref\Test1.5CountProduction.dll

@@ -1,0 +1,15 @@
+D:\PC-base\C#\Code\Multi-InterfaceDevice\Multi-InterfaceDevice\bin\Debug\net10.0\Multi-InterfaceDevice.exe
+D:\PC-base\C#\Code\Multi-InterfaceDevice\Multi-InterfaceDevice\bin\Debug\net10.0\Multi-InterfaceDevice.deps.json
+D:\PC-base\C#\Code\Multi-InterfaceDevice\Multi-InterfaceDevice\bin\Debug\net10.0\Multi-InterfaceDevice.runtimeconfig.json
+D:\PC-base\C#\Code\Multi-InterfaceDevice\Multi-InterfaceDevice\bin\Debug\net10.0\Multi-InterfaceDevice.dll
+D:\PC-base\C#\Code\Multi-InterfaceDevice\Multi-InterfaceDevice\bin\Debug\net10.0\Multi-InterfaceDevice.pdb
+D:\PC-base\C#\Code\Multi-InterfaceDevice\Multi-InterfaceDevice\obj\Debug\net10.0\Multi-InterfaceDevice.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC-base\C#\Code\Multi-InterfaceDevice\Multi-InterfaceDevice\obj\Debug\net10.0\Multi-InterfaceDevice.AssemblyInfoInputs.cache
+D:\PC-base\C#\Code\Multi-InterfaceDevice\Multi-InterfaceDevice\obj\Debug\net10.0\Multi-InterfaceDevice.AssemblyInfo.cs
+D:\PC-base\C#\Code\Multi-InterfaceDevice\Multi-InterfaceDevice\obj\Debug\net10.0\Multi-InterfaceDevice.csproj.CoreCompileInputs.cache
+D:\PC-base\C#\Code\Multi-InterfaceDevice\Multi-InterfaceDevice\obj\Debug\net10.0\Multi-InterfaceDevice.sourcelink.json
+D:\PC-base\C#\Code\Multi-InterfaceDevice\Multi-InterfaceDevice\obj\Debug\net10.0\Multi-InterfaceDevice.dll
+D:\PC-base\C#\Code\Multi-InterfaceDevice\Multi-InterfaceDevice\obj\Debug\net10.0\refint\Multi-InterfaceDevice.dll
+D:\PC-base\C#\Code\Multi-InterfaceDevice\Multi-InterfaceDevice\obj\Debug\net10.0\Multi-InterfaceDevice.pdb
+D:\PC-base\C#\Code\Multi-InterfaceDevice\Multi-InterfaceDevice\obj\Debug\net10.0\Multi-InterfaceDevice.genruntimeconfig.cache
+D:\PC-base\C#\Code\Multi-InterfaceDevice\Multi-InterfaceDevice\obj\Debug\net10.0\ref\Multi-InterfaceDevice.dll
