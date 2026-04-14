@@ -1,0 +1,15 @@
+D:\PC-base\C#\Code\ConveyorBuffer\ConveyorBuffer\bin\Debug\net10.0\ConveyorBuffer.exe
+D:\PC-base\C#\Code\ConveyorBuffer\ConveyorBuffer\bin\Debug\net10.0\ConveyorBuffer.deps.json
+D:\PC-base\C#\Code\ConveyorBuffer\ConveyorBuffer\bin\Debug\net10.0\ConveyorBuffer.runtimeconfig.json
+D:\PC-base\C#\Code\ConveyorBuffer\ConveyorBuffer\bin\Debug\net10.0\ConveyorBuffer.dll
+D:\PC-base\C#\Code\ConveyorBuffer\ConveyorBuffer\bin\Debug\net10.0\ConveyorBuffer.pdb
+D:\PC-base\C#\Code\ConveyorBuffer\ConveyorBuffer\obj\Debug\net10.0\ConveyorBuffer.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC-base\C#\Code\ConveyorBuffer\ConveyorBuffer\obj\Debug\net10.0\ConveyorBuffer.AssemblyInfoInputs.cache
+D:\PC-base\C#\Code\ConveyorBuffer\ConveyorBuffer\obj\Debug\net10.0\ConveyorBuffer.AssemblyInfo.cs
+D:\PC-base\C#\Code\ConveyorBuffer\ConveyorBuffer\obj\Debug\net10.0\ConveyorBuffer.csproj.CoreCompileInputs.cache
+D:\PC-base\C#\Code\ConveyorBuffer\ConveyorBuffer\obj\Debug\net10.0\ConveyorBuffer.sourcelink.json
+D:\PC-base\C#\Code\ConveyorBuffer\ConveyorBuffer\obj\Debug\net10.0\ConveyorBuffer.dll
+D:\PC-base\C#\Code\ConveyorBuffer\ConveyorBuffer\obj\Debug\net10.0\refint\ConveyorBuffer.dll
+D:\PC-base\C#\Code\ConveyorBuffer\ConveyorBuffer\obj\Debug\net10.0\ConveyorBuffer.pdb
+D:\PC-base\C#\Code\ConveyorBuffer\ConveyorBuffer\obj\Debug\net10.0\ConveyorBuffer.genruntimeconfig.cache
+D:\PC-base\C#\Code\ConveyorBuffer\ConveyorBuffer\obj\Debug\net10.0\ref\ConveyorBuffer.dll

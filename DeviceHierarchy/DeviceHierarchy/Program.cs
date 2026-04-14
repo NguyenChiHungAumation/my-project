@@ -32,7 +32,7 @@ class Camera : Device
     public override string GetInfo()
     {
         return $"Camera: {Name} [{Resolution}]";
-            }
+    }
 }
 
 class PLC : Device

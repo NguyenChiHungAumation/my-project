@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IControllable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50615fa614b12d73e3bd935a26a311c8812699e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f7d6585730bf9d62d9ade384e466391327dd915")]
 [assembly: System.Reflection.AssemblyProductAttribute("IControllable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IControllable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

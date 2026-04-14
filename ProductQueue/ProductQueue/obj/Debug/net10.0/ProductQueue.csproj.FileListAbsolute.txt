@@ -1,0 +1,15 @@
+D:\PC-base\C#\Code\ProductQueue\ProductQueue\bin\Debug\net10.0\ProductQueue.exe
+D:\PC-base\C#\Code\ProductQueue\ProductQueue\bin\Debug\net10.0\ProductQueue.deps.json
+D:\PC-base\C#\Code\ProductQueue\ProductQueue\bin\Debug\net10.0\ProductQueue.runtimeconfig.json
+D:\PC-base\C#\Code\ProductQueue\ProductQueue\bin\Debug\net10.0\ProductQueue.dll
+D:\PC-base\C#\Code\ProductQueue\ProductQueue\bin\Debug\net10.0\ProductQueue.pdb
+D:\PC-base\C#\Code\ProductQueue\ProductQueue\obj\Debug\net10.0\ProductQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC-base\C#\Code\ProductQueue\ProductQueue\obj\Debug\net10.0\ProductQueue.AssemblyInfoInputs.cache
+D:\PC-base\C#\Code\ProductQueue\ProductQueue\obj\Debug\net10.0\ProductQueue.AssemblyInfo.cs
+D:\PC-base\C#\Code\ProductQueue\ProductQueue\obj\Debug\net10.0\ProductQueue.csproj.CoreCompileInputs.cache
+D:\PC-base\C#\Code\ProductQueue\ProductQueue\obj\Debug\net10.0\ProductQueue.sourcelink.json
+D:\PC-base\C#\Code\ProductQueue\ProductQueue\obj\Debug\net10.0\ProductQueue.dll
+D:\PC-base\C#\Code\ProductQueue\ProductQueue\obj\Debug\net10.0\refint\ProductQueue.dll
+D:\PC-base\C#\Code\ProductQueue\ProductQueue\obj\Debug\net10.0\ProductQueue.pdb
+D:\PC-base\C#\Code\ProductQueue\ProductQueue\obj\Debug\net10.0\ProductQueue.genruntimeconfig.cache
+D:\PC-base\C#\Code\ProductQueue\ProductQueue\obj\Debug\net10.0\ref\ProductQueue.dll

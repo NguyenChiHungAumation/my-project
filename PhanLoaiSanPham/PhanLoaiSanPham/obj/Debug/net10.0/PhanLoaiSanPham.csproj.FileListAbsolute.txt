@@ -1,0 +1,15 @@
+D:\PC-base\C#\Code\PhanLoaiSanPham\PhanLoaiSanPham\bin\Debug\net10.0\PhanLoaiSanPham.exe
+D:\PC-base\C#\Code\PhanLoaiSanPham\PhanLoaiSanPham\bin\Debug\net10.0\PhanLoaiSanPham.deps.json
+D:\PC-base\C#\Code\PhanLoaiSanPham\PhanLoaiSanPham\bin\Debug\net10.0\PhanLoaiSanPham.runtimeconfig.json
+D:\PC-base\C#\Code\PhanLoaiSanPham\PhanLoaiSanPham\bin\Debug\net10.0\PhanLoaiSanPham.dll
+D:\PC-base\C#\Code\PhanLoaiSanPham\PhanLoaiSanPham\bin\Debug\net10.0\PhanLoaiSanPham.pdb
+D:\PC-base\C#\Code\PhanLoaiSanPham\PhanLoaiSanPham\obj\Debug\net10.0\PhanLoaiSanPham.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC-base\C#\Code\PhanLoaiSanPham\PhanLoaiSanPham\obj\Debug\net10.0\PhanLoaiSanPham.AssemblyInfoInputs.cache
+D:\PC-base\C#\Code\PhanLoaiSanPham\PhanLoaiSanPham\obj\Debug\net10.0\PhanLoaiSanPham.AssemblyInfo.cs
+D:\PC-base\C#\Code\PhanLoaiSanPham\PhanLoaiSanPham\obj\Debug\net10.0\PhanLoaiSanPham.csproj.CoreCompileInputs.cache
+D:\PC-base\C#\Code\PhanLoaiSanPham\PhanLoaiSanPham\obj\Debug\net10.0\PhanLoaiSanPham.sourcelink.json
+D:\PC-base\C#\Code\PhanLoaiSanPham\PhanLoaiSanPham\obj\Debug\net10.0\PhanLoaiSanPham.dll
+D:\PC-base\C#\Code\PhanLoaiSanPham\PhanLoaiSanPham\obj\Debug\net10.0\refint\PhanLoaiSanPham.dll
+D:\PC-base\C#\Code\PhanLoaiSanPham\PhanLoaiSanPham\obj\Debug\net10.0\PhanLoaiSanPham.pdb
+D:\PC-base\C#\Code\PhanLoaiSanPham\PhanLoaiSanPham\obj\Debug\net10.0\PhanLoaiSanPham.genruntimeconfig.cache
+D:\PC-base\C#\Code\PhanLoaiSanPham\PhanLoaiSanPham\obj\Debug\net10.0\ref\PhanLoaiSanPham.dll

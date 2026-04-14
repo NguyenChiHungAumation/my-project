@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PC-base\\C#\\Code\\Lesson07_LINQBasix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{668EA860-95F2-62A1-C82D-BE1BC05765F5}|Lesson07_LINQBasix\\Lesson07_LINQBasix.csproj|d:\\pc-base\\c#\\code\\lesson07_linqbasix\\lesson07_linqbasix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668EA860-95F2-62A1-C82D-BE1BC05765F5}|Lesson07_LINQBasix\\Lesson07_LINQBasix.csproj|solutionrelative:lesson07_linqbasix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PC-base\\C#\\Code\\Lesson07_LINQBasix\\Lesson07_LINQBasix\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson07_LINQBasix\\Program.cs",
+              "ToolTip": "D:\\PC-base\\C#\\Code\\Lesson07_LINQBasix\\Lesson07_LINQBasix\\Program.cs",
+              "RelativeToolTip": "Lesson07_LINQBasix\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAUwD8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T03:37:51.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

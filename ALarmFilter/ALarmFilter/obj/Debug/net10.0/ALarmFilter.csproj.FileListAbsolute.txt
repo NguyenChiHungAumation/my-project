@@ -1,0 +1,15 @@
+D:\PC-base\C#\Code\ALarmFilter\ALarmFilter\bin\Debug\net10.0\ALarmFilter.exe
+D:\PC-base\C#\Code\ALarmFilter\ALarmFilter\bin\Debug\net10.0\ALarmFilter.deps.json
+D:\PC-base\C#\Code\ALarmFilter\ALarmFilter\bin\Debug\net10.0\ALarmFilter.runtimeconfig.json
+D:\PC-base\C#\Code\ALarmFilter\ALarmFilter\bin\Debug\net10.0\ALarmFilter.dll
+D:\PC-base\C#\Code\ALarmFilter\ALarmFilter\bin\Debug\net10.0\ALarmFilter.pdb
+D:\PC-base\C#\Code\ALarmFilter\ALarmFilter\obj\Debug\net10.0\ALarmFilter.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC-base\C#\Code\ALarmFilter\ALarmFilter\obj\Debug\net10.0\ALarmFilter.AssemblyInfoInputs.cache
+D:\PC-base\C#\Code\ALarmFilter\ALarmFilter\obj\Debug\net10.0\ALarmFilter.AssemblyInfo.cs
+D:\PC-base\C#\Code\ALarmFilter\ALarmFilter\obj\Debug\net10.0\ALarmFilter.csproj.CoreCompileInputs.cache
+D:\PC-base\C#\Code\ALarmFilter\ALarmFilter\obj\Debug\net10.0\ALarmFilter.sourcelink.json
+D:\PC-base\C#\Code\ALarmFilter\ALarmFilter\obj\Debug\net10.0\ALarmFilter.dll
+D:\PC-base\C#\Code\ALarmFilter\ALarmFilter\obj\Debug\net10.0\refint\ALarmFilter.dll
+D:\PC-base\C#\Code\ALarmFilter\ALarmFilter\obj\Debug\net10.0\ALarmFilter.pdb
+D:\PC-base\C#\Code\ALarmFilter\ALarmFilter\obj\Debug\net10.0\ALarmFilter.genruntimeconfig.cache
+D:\PC-base\C#\Code\ALarmFilter\ALarmFilter\obj\Debug\net10.0\ref\ALarmFilter.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SensorRegistry/1.0.0": {
+        "runtime": {
+          "SensorRegistry.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SensorRegistry/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

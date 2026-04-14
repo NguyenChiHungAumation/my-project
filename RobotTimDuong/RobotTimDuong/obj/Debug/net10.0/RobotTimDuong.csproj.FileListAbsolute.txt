@@ -1,0 +1,15 @@
+D:\PC-base\C#\Code\RobotTimDuong\RobotTimDuong\bin\Debug\net10.0\RobotTimDuong.exe
+D:\PC-base\C#\Code\RobotTimDuong\RobotTimDuong\bin\Debug\net10.0\RobotTimDuong.deps.json
+D:\PC-base\C#\Code\RobotTimDuong\RobotTimDuong\bin\Debug\net10.0\RobotTimDuong.runtimeconfig.json
+D:\PC-base\C#\Code\RobotTimDuong\RobotTimDuong\bin\Debug\net10.0\RobotTimDuong.dll
+D:\PC-base\C#\Code\RobotTimDuong\RobotTimDuong\bin\Debug\net10.0\RobotTimDuong.pdb
+D:\PC-base\C#\Code\RobotTimDuong\RobotTimDuong\obj\Debug\net10.0\RobotTimDuong.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC-base\C#\Code\RobotTimDuong\RobotTimDuong\obj\Debug\net10.0\RobotTimDuong.AssemblyInfoInputs.cache
+D:\PC-base\C#\Code\RobotTimDuong\RobotTimDuong\obj\Debug\net10.0\RobotTimDuong.AssemblyInfo.cs
+D:\PC-base\C#\Code\RobotTimDuong\RobotTimDuong\obj\Debug\net10.0\RobotTimDuong.csproj.CoreCompileInputs.cache
+D:\PC-base\C#\Code\RobotTimDuong\RobotTimDuong\obj\Debug\net10.0\RobotTimDuong.sourcelink.json
+D:\PC-base\C#\Code\RobotTimDuong\RobotTimDuong\obj\Debug\net10.0\RobotTimDuong.dll
+D:\PC-base\C#\Code\RobotTimDuong\RobotTimDuong\obj\Debug\net10.0\refint\RobotTimDuong.dll
+D:\PC-base\C#\Code\RobotTimDuong\RobotTimDuong\obj\Debug\net10.0\RobotTimDuong.pdb
+D:\PC-base\C#\Code\RobotTimDuong\RobotTimDuong\obj\Debug\net10.0\RobotTimDuong.genruntimeconfig.cache
+D:\PC-base\C#\Code\RobotTimDuong\RobotTimDuong\obj\Debug\net10.0\ref\RobotTimDuong.dll
