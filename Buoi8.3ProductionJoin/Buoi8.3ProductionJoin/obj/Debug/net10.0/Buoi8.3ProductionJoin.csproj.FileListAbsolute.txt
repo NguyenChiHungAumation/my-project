@@ -1,0 +1,15 @@
+D:\PC-base\C#\Code\Buoi8.3ProductionJoin\Buoi8.3ProductionJoin\bin\Debug\net10.0\Buoi8.3ProductionJoin.exe
+D:\PC-base\C#\Code\Buoi8.3ProductionJoin\Buoi8.3ProductionJoin\bin\Debug\net10.0\Buoi8.3ProductionJoin.deps.json
+D:\PC-base\C#\Code\Buoi8.3ProductionJoin\Buoi8.3ProductionJoin\bin\Debug\net10.0\Buoi8.3ProductionJoin.runtimeconfig.json
+D:\PC-base\C#\Code\Buoi8.3ProductionJoin\Buoi8.3ProductionJoin\bin\Debug\net10.0\Buoi8.3ProductionJoin.dll
+D:\PC-base\C#\Code\Buoi8.3ProductionJoin\Buoi8.3ProductionJoin\bin\Debug\net10.0\Buoi8.3ProductionJoin.pdb
+D:\PC-base\C#\Code\Buoi8.3ProductionJoin\Buoi8.3ProductionJoin\obj\Debug\net10.0\Buoi8.3ProductionJoin.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC-base\C#\Code\Buoi8.3ProductionJoin\Buoi8.3ProductionJoin\obj\Debug\net10.0\Buoi8.3ProductionJoin.AssemblyInfoInputs.cache
+D:\PC-base\C#\Code\Buoi8.3ProductionJoin\Buoi8.3ProductionJoin\obj\Debug\net10.0\Buoi8.3ProductionJoin.AssemblyInfo.cs
+D:\PC-base\C#\Code\Buoi8.3ProductionJoin\Buoi8.3ProductionJoin\obj\Debug\net10.0\Buoi8.3ProductionJoin.csproj.CoreCompileInputs.cache
+D:\PC-base\C#\Code\Buoi8.3ProductionJoin\Buoi8.3ProductionJoin\obj\Debug\net10.0\Buoi8.3ProductionJoin.sourcelink.json
+D:\PC-base\C#\Code\Buoi8.3ProductionJoin\Buoi8.3ProductionJoin\obj\Debug\net10.0\Buoi8.3ProductionJoin.dll
+D:\PC-base\C#\Code\Buoi8.3ProductionJoin\Buoi8.3ProductionJoin\obj\Debug\net10.0\refint\Buoi8.3ProductionJoin.dll
+D:\PC-base\C#\Code\Buoi8.3ProductionJoin\Buoi8.3ProductionJoin\obj\Debug\net10.0\Buoi8.3ProductionJoin.pdb
+D:\PC-base\C#\Code\Buoi8.3ProductionJoin\Buoi8.3ProductionJoin\obj\Debug\net10.0\Buoi8.3ProductionJoin.genruntimeconfig.cache
+D:\PC-base\C#\Code\Buoi8.3ProductionJoin\Buoi8.3ProductionJoin\obj\Debug\net10.0\ref\Buoi8.3ProductionJoin.dll

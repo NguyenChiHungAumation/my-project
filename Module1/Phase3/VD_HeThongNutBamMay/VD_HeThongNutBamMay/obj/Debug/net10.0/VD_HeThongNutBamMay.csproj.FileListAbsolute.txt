@@ -1,0 +1,15 @@
+D:\PC-base\C#\Code\Module1\Phase3\VD_HeThongNutBamMay\VD_HeThongNutBamMay\bin\Debug\net10.0\VD_HeThongNutBamMay.exe
+D:\PC-base\C#\Code\Module1\Phase3\VD_HeThongNutBamMay\VD_HeThongNutBamMay\bin\Debug\net10.0\VD_HeThongNutBamMay.deps.json
+D:\PC-base\C#\Code\Module1\Phase3\VD_HeThongNutBamMay\VD_HeThongNutBamMay\bin\Debug\net10.0\VD_HeThongNutBamMay.runtimeconfig.json
+D:\PC-base\C#\Code\Module1\Phase3\VD_HeThongNutBamMay\VD_HeThongNutBamMay\bin\Debug\net10.0\VD_HeThongNutBamMay.dll
+D:\PC-base\C#\Code\Module1\Phase3\VD_HeThongNutBamMay\VD_HeThongNutBamMay\bin\Debug\net10.0\VD_HeThongNutBamMay.pdb
+D:\PC-base\C#\Code\Module1\Phase3\VD_HeThongNutBamMay\VD_HeThongNutBamMay\obj\Debug\net10.0\VD_HeThongNutBamMay.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC-base\C#\Code\Module1\Phase3\VD_HeThongNutBamMay\VD_HeThongNutBamMay\obj\Debug\net10.0\VD_HeThongNutBamMay.AssemblyInfoInputs.cache
+D:\PC-base\C#\Code\Module1\Phase3\VD_HeThongNutBamMay\VD_HeThongNutBamMay\obj\Debug\net10.0\VD_HeThongNutBamMay.AssemblyInfo.cs
+D:\PC-base\C#\Code\Module1\Phase3\VD_HeThongNutBamMay\VD_HeThongNutBamMay\obj\Debug\net10.0\VD_HeThongNutBamMay.csproj.CoreCompileInputs.cache
+D:\PC-base\C#\Code\Module1\Phase3\VD_HeThongNutBamMay\VD_HeThongNutBamMay\obj\Debug\net10.0\VD_HeThongNutBamMay.sourcelink.json
+D:\PC-base\C#\Code\Module1\Phase3\VD_HeThongNutBamMay\VD_HeThongNutBamMay\obj\Debug\net10.0\VD_HeThongNutBamMay.dll
+D:\PC-base\C#\Code\Module1\Phase3\VD_HeThongNutBamMay\VD_HeThongNutBamMay\obj\Debug\net10.0\refint\VD_HeThongNutBamMay.dll
+D:\PC-base\C#\Code\Module1\Phase3\VD_HeThongNutBamMay\VD_HeThongNutBamMay\obj\Debug\net10.0\VD_HeThongNutBamMay.pdb
+D:\PC-base\C#\Code\Module1\Phase3\VD_HeThongNutBamMay\VD_HeThongNutBamMay\obj\Debug\net10.0\VD_HeThongNutBamMay.genruntimeconfig.cache
+D:\PC-base\C#\Code\Module1\Phase3\VD_HeThongNutBamMay\VD_HeThongNutBamMay\obj\Debug\net10.0\ref\VD_HeThongNutBamMay.dll

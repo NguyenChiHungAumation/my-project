@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\PC-base\\C#\\Code\\ProductionJoin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41105670-70F1-4187-BCEA-E5E6AE3415A0}|ProductionJoin\\ProductionJoin.csproj|d:\\pc-base\\c#\\code\\productionjoin\\productionjoin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41105670-70F1-4187-BCEA-E5E6AE3415A0}|ProductionJoin\\ProductionJoin.csproj|solutionrelative:productionjoin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E05DCA73-47CC-DC91-1BCC-BE7BE5784913}|ProductionJoin\\ProductionJoin.csproj|d:\\pc-base\\c#\\code\\productionjoin\\productionjoin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05DCA73-47CC-DC91-1BCC-BE7BE5784913}|ProductionJoin\\ProductionJoin.csproj|solutionrelative:productionjoin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,9 +26,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\PC-base\\C#\\Code\\ProductionJoin\\ProductionJoin\\Program.cs",
               "RelativeDocumentMoniker": "ProductionJoin\\Program.cs",
-              "ToolTip": "D:\\PC-base\\C#\\Code\\ProductionJoin\\ProductionJoin\\Program.cs",
-              "RelativeToolTip": "ProductionJoin\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\PC-base\\C#\\Code\\ProductionJoin\\ProductionJoin\\Program.cs*",
+              "RelativeToolTip": "ProductionJoin\\Program.cs*",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAmwL0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T18:51:32.613Z",
               "EditorCaption": ""

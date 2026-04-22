@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PC-base\\C#\\Code\\Module1\\Phase2\\MachineDataConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82F6322E-17A2-7184-C9D9-671A6FA23203}|MachineDataConsole\\MachineDataConsole.csproj|d:\\pc-base\\c#\\code\\module1\\phase2\\machinedataconsole\\machinedataconsole\\models\\inspection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F6322E-17A2-7184-C9D9-671A6FA23203}|MachineDataConsole\\MachineDataConsole.csproj|solutionrelative:machinedataconsole\\models\\inspection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F6322E-17A2-7184-C9D9-671A6FA23203}|MachineDataConsole\\MachineDataConsole.csproj|d:\\pc-base\\c#\\code\\module1\\phase2\\machinedataconsole\\machinedataconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F6322E-17A2-7184-C9D9-671A6FA23203}|MachineDataConsole\\MachineDataConsole.csproj|solutionrelative:machinedataconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F6322E-17A2-7184-C9D9-671A6FA23203}|MachineDataConsole\\MachineDataConsole.csproj|d:\\pc-base\\c#\\code\\module1\\phase2\\machinedataconsole\\machinedataconsole\\models\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F6322E-17A2-7184-C9D9-671A6FA23203}|MachineDataConsole\\MachineDataConsole.csproj|solutionrelative:machinedataconsole\\models\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F6322E-17A2-7184-C9D9-671A6FA23203}|MachineDataConsole\\MachineDataConsole.csproj|d:\\pc-base\\c#\\code\\module1\\phase2\\machinedataconsole\\machinedataconsole\\services\\machinedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F6322E-17A2-7184-C9D9-671A6FA23203}|MachineDataConsole\\MachineDataConsole.csproj|solutionrelative:machinedataconsole\\services\\machinedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F6322E-17A2-7184-C9D9-671A6FA23203}|MachineDataConsole\\MachineDataConsole.csproj|d:\\pc-base\\c#\\code\\module1\\phase2\\machinedataconsole\\machinedataconsole\\exceptions\\configexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F6322E-17A2-7184-C9D9-671A6FA23203}|MachineDataConsole\\MachineDataConsole.csproj|solutionrelative:machinedataconsole\\exceptions\\configexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F6322E-17A2-7184-C9D9-671A6FA23203}|MachineDataConsole\\MachineDataConsole.csproj|d:\\pc-base\\c#\\code\\module1\\phase2\\machinedataconsole\\machinedataconsole\\models\\deviceconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F6322E-17A2-7184-C9D9-671A6FA23203}|MachineDataConsole\\MachineDataConsole.csproj|solutionrelative:machinedataconsole\\models\\deviceconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F6322E-17A2-7184-C9D9-671A6FA23203}|MachineDataConsole\\MachineDataConsole.csproj|d:\\pc-base\\c#\\code\\module1\\phase2\\machinedataconsole\\machinedataconsole\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F6322E-17A2-7184-C9D9-671A6FA23203}|MachineDataConsole\\MachineDataConsole.csproj|solutionrelative:machinedataconsole\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F6322E-17A2-7184-C9D9-671A6FA23203}|MachineDataConsole\\MachineDataConsole.csproj|d:\\pc-base\\c#\\code\\module1\\phase2\\machinedataconsole\\machinedataconsole\\machinedataconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82F6322E-17A2-7184-C9D9-671A6FA23203}|MachineDataConsole\\MachineDataConsole.csproj|solutionrelative:machinedataconsole\\machinedataconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MachineDataService.cs",
+              "DocumentMoniker": "D:\\PC-base\\C#\\Code\\Module1\\Phase2\\MachineDataConsole\\MachineDataConsole\\Services\\MachineDataService.cs",
+              "RelativeDocumentMoniker": "MachineDataConsole\\Services\\MachineDataService.cs",
+              "ToolTip": "D:\\PC-base\\C#\\Code\\Module1\\Phase2\\MachineDataConsole\\MachineDataConsole\\Services\\MachineDataService.cs",
+              "RelativeToolTip": "MachineDataConsole\\Services\\MachineDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T14:07:04.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigException.cs",
+              "DocumentMoniker": "D:\\PC-base\\C#\\Code\\Module1\\Phase2\\MachineDataConsole\\MachineDataConsole\\Exceptions\\ConfigException.cs",
+              "RelativeDocumentMoniker": "MachineDataConsole\\Exceptions\\ConfigException.cs",
+              "ToolTip": "D:\\PC-base\\C#\\Code\\Module1\\Phase2\\MachineDataConsole\\MachineDataConsole\\Exceptions\\ConfigException.cs",
+              "RelativeToolTip": "MachineDataConsole\\Exceptions\\ConfigException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T14:06:39.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeviceConnection.cs",
+              "DocumentMoniker": "D:\\PC-base\\C#\\Code\\Module1\\Phase2\\MachineDataConsole\\MachineDataConsole\\Models\\DeviceConnection.cs",
+              "RelativeDocumentMoniker": "MachineDataConsole\\Models\\DeviceConnection.cs",
+              "ToolTip": "D:\\PC-base\\C#\\Code\\Module1\\Phase2\\MachineDataConsole\\MachineDataConsole\\Models\\DeviceConnection.cs",
+              "RelativeToolTip": "MachineDataConsole\\Models\\DeviceConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T14:06:14.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inspection.cs",
+              "DocumentMoniker": "D:\\PC-base\\C#\\Code\\Module1\\Phase2\\MachineDataConsole\\MachineDataConsole\\Models\\Inspection.cs",
+              "RelativeDocumentMoniker": "MachineDataConsole\\Models\\Inspection.cs",
+              "ToolTip": "D:\\PC-base\\C#\\Code\\Module1\\Phase2\\MachineDataConsole\\MachineDataConsole\\Models\\Inspection.cs",
+              "RelativeToolTip": "MachineDataConsole\\Models\\Inspection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T14:05:49.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\PC-base\\C#\\Code\\Module1\\Phase2\\MachineDataConsole\\MachineDataConsole\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "MachineDataConsole\\Models\\Order.cs",
+              "ToolTip": "D:\\PC-base\\C#\\Code\\Module1\\Phase2\\MachineDataConsole\\MachineDataConsole\\Models\\Order.cs",
+              "RelativeToolTip": "MachineDataConsole\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T14:05:31.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogEntry.cs",
+              "DocumentMoniker": "D:\\PC-base\\C#\\Code\\Module1\\Phase2\\MachineDataConsole\\MachineDataConsole\\Models\\LogEntry.cs",
+              "RelativeDocumentMoniker": "MachineDataConsole\\Models\\LogEntry.cs",
+              "ToolTip": "D:\\PC-base\\C#\\Code\\Module1\\Phase2\\MachineDataConsole\\MachineDataConsole\\Models\\LogEntry.cs",
+              "RelativeToolTip": "MachineDataConsole\\Models\\LogEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T14:05:10.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MachineDataConsole",
+              "DocumentMoniker": "D:\\PC-base\\C#\\Code\\Module1\\Phase2\\MachineDataConsole\\MachineDataConsole\\MachineDataConsole.csproj",
+              "RelativeDocumentMoniker": "MachineDataConsole\\MachineDataConsole.csproj",
+              "ToolTip": "D:\\PC-base\\C#\\Code\\Module1\\Phase2\\MachineDataConsole\\MachineDataConsole\\MachineDataConsole.csproj",
+              "RelativeToolTip": "MachineDataConsole\\MachineDataConsole.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-17T13:59:24.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PC-base\\C#\\Code\\Module1\\Phase2\\MachineDataConsole\\MachineDataConsole\\Program.cs",
+              "RelativeDocumentMoniker": "MachineDataConsole\\Program.cs",
+              "ToolTip": "D:\\PC-base\\C#\\Code\\Module1\\Phase2\\MachineDataConsole\\MachineDataConsole\\Program.cs",
+              "RelativeToolTip": "MachineDataConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T13:56:53.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

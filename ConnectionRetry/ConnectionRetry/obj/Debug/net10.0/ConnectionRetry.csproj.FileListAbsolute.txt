@@ -1,0 +1,15 @@
+D:\PC-base\C#\Code\ConnectionRetry\ConnectionRetry\bin\Debug\net10.0\ConnectionRetry.exe
+D:\PC-base\C#\Code\ConnectionRetry\ConnectionRetry\bin\Debug\net10.0\ConnectionRetry.deps.json
+D:\PC-base\C#\Code\ConnectionRetry\ConnectionRetry\bin\Debug\net10.0\ConnectionRetry.runtimeconfig.json
+D:\PC-base\C#\Code\ConnectionRetry\ConnectionRetry\bin\Debug\net10.0\ConnectionRetry.dll
+D:\PC-base\C#\Code\ConnectionRetry\ConnectionRetry\bin\Debug\net10.0\ConnectionRetry.pdb
+D:\PC-base\C#\Code\ConnectionRetry\ConnectionRetry\obj\Debug\net10.0\ConnectionRetry.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC-base\C#\Code\ConnectionRetry\ConnectionRetry\obj\Debug\net10.0\ConnectionRetry.AssemblyInfoInputs.cache
+D:\PC-base\C#\Code\ConnectionRetry\ConnectionRetry\obj\Debug\net10.0\ConnectionRetry.AssemblyInfo.cs
+D:\PC-base\C#\Code\ConnectionRetry\ConnectionRetry\obj\Debug\net10.0\ConnectionRetry.csproj.CoreCompileInputs.cache
+D:\PC-base\C#\Code\ConnectionRetry\ConnectionRetry\obj\Debug\net10.0\ConnectionRetry.sourcelink.json
+D:\PC-base\C#\Code\ConnectionRetry\ConnectionRetry\obj\Debug\net10.0\ConnectionRetry.dll
+D:\PC-base\C#\Code\ConnectionRetry\ConnectionRetry\obj\Debug\net10.0\refint\ConnectionRetry.dll
+D:\PC-base\C#\Code\ConnectionRetry\ConnectionRetry\obj\Debug\net10.0\ConnectionRetry.pdb
+D:\PC-base\C#\Code\ConnectionRetry\ConnectionRetry\obj\Debug\net10.0\ConnectionRetry.genruntimeconfig.cache
+D:\PC-base\C#\Code\ConnectionRetry\ConnectionRetry\obj\Debug\net10.0\ref\ConnectionRetry.dll

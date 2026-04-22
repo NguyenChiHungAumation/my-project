@@ -1,0 +1,15 @@
+D:\PC-base\C#\Code\Module1\Phase3\VD_ConveryorBeltEvent\VD_ConveryorBeltEvent\bin\Debug\net10.0\VD_ConveryorBeltEvent.exe
+D:\PC-base\C#\Code\Module1\Phase3\VD_ConveryorBeltEvent\VD_ConveryorBeltEvent\bin\Debug\net10.0\VD_ConveryorBeltEvent.deps.json
+D:\PC-base\C#\Code\Module1\Phase3\VD_ConveryorBeltEvent\VD_ConveryorBeltEvent\bin\Debug\net10.0\VD_ConveryorBeltEvent.runtimeconfig.json
+D:\PC-base\C#\Code\Module1\Phase3\VD_ConveryorBeltEvent\VD_ConveryorBeltEvent\bin\Debug\net10.0\VD_ConveryorBeltEvent.dll
+D:\PC-base\C#\Code\Module1\Phase3\VD_ConveryorBeltEvent\VD_ConveryorBeltEvent\bin\Debug\net10.0\VD_ConveryorBeltEvent.pdb
+D:\PC-base\C#\Code\Module1\Phase3\VD_ConveryorBeltEvent\VD_ConveryorBeltEvent\obj\Debug\net10.0\VD_ConveryorBeltEvent.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC-base\C#\Code\Module1\Phase3\VD_ConveryorBeltEvent\VD_ConveryorBeltEvent\obj\Debug\net10.0\VD_ConveryorBeltEvent.AssemblyInfoInputs.cache
+D:\PC-base\C#\Code\Module1\Phase3\VD_ConveryorBeltEvent\VD_ConveryorBeltEvent\obj\Debug\net10.0\VD_ConveryorBeltEvent.AssemblyInfo.cs
+D:\PC-base\C#\Code\Module1\Phase3\VD_ConveryorBeltEvent\VD_ConveryorBeltEvent\obj\Debug\net10.0\VD_ConveryorBeltEvent.csproj.CoreCompileInputs.cache
+D:\PC-base\C#\Code\Module1\Phase3\VD_ConveryorBeltEvent\VD_ConveryorBeltEvent\obj\Debug\net10.0\VD_ConveryorBeltEvent.sourcelink.json
+D:\PC-base\C#\Code\Module1\Phase3\VD_ConveryorBeltEvent\VD_ConveryorBeltEvent\obj\Debug\net10.0\VD_ConveryorBeltEvent.dll
+D:\PC-base\C#\Code\Module1\Phase3\VD_ConveryorBeltEvent\VD_ConveryorBeltEvent\obj\Debug\net10.0\refint\VD_ConveryorBeltEvent.dll
+D:\PC-base\C#\Code\Module1\Phase3\VD_ConveryorBeltEvent\VD_ConveryorBeltEvent\obj\Debug\net10.0\VD_ConveryorBeltEvent.pdb
+D:\PC-base\C#\Code\Module1\Phase3\VD_ConveryorBeltEvent\VD_ConveryorBeltEvent\obj\Debug\net10.0\VD_ConveryorBeltEvent.genruntimeconfig.cache
+D:\PC-base\C#\Code\Module1\Phase3\VD_ConveryorBeltEvent\VD_ConveryorBeltEvent\obj\Debug\net10.0\ref\VD_ConveryorBeltEvent.dll

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PC-base\\C#\\Code\\Lesson09_ExceptionHandling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE74461C-8E70-45B0-894E-F37C1B6F9A53}|Lesson09_ExceptionHandling\\Lesson09_ExceptionHandling.csproj|d:\\pc-base\\c#\\code\\lesson09_exceptionhandling\\lesson09_exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE74461C-8E70-45B0-894E-F37C1B6F9A53}|Lesson09_ExceptionHandling\\Lesson09_ExceptionHandling.csproj|solutionrelative:lesson09_exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PC-base\\C#\\Code\\Lesson09_ExceptionHandling\\Lesson09_ExceptionHandling\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson09_ExceptionHandling\\Program.cs",
+              "ToolTip": "D:\\PC-base\\C#\\Code\\Lesson09_ExceptionHandling\\Lesson09_ExceptionHandling\\Program.cs*",
+              "RelativeToolTip": "Lesson09_ExceptionHandling\\Program.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T02:22:13.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

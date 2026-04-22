@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProductionJoin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f7d6585730bf9d62d9ade384e466391327dd915")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce2095a229e7c7e97e94403258e00e63f34ac34b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProductionJoin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProductionJoin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

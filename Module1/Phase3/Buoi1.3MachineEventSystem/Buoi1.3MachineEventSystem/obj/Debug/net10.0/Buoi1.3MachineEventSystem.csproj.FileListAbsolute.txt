@@ -1,0 +1,15 @@
+D:\PC-base\C#\Code\Module1\Phase3\Buoi1.3MachineEventSystem\Buoi1.3MachineEventSystem\bin\Debug\net10.0\Buoi1.3MachineEventSystem.exe
+D:\PC-base\C#\Code\Module1\Phase3\Buoi1.3MachineEventSystem\Buoi1.3MachineEventSystem\bin\Debug\net10.0\Buoi1.3MachineEventSystem.deps.json
+D:\PC-base\C#\Code\Module1\Phase3\Buoi1.3MachineEventSystem\Buoi1.3MachineEventSystem\bin\Debug\net10.0\Buoi1.3MachineEventSystem.runtimeconfig.json
+D:\PC-base\C#\Code\Module1\Phase3\Buoi1.3MachineEventSystem\Buoi1.3MachineEventSystem\bin\Debug\net10.0\Buoi1.3MachineEventSystem.dll
+D:\PC-base\C#\Code\Module1\Phase3\Buoi1.3MachineEventSystem\Buoi1.3MachineEventSystem\bin\Debug\net10.0\Buoi1.3MachineEventSystem.pdb
+D:\PC-base\C#\Code\Module1\Phase3\Buoi1.3MachineEventSystem\Buoi1.3MachineEventSystem\obj\Debug\net10.0\Buoi1.3MachineEventSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC-base\C#\Code\Module1\Phase3\Buoi1.3MachineEventSystem\Buoi1.3MachineEventSystem\obj\Debug\net10.0\Buoi1.3MachineEventSystem.AssemblyInfoInputs.cache
+D:\PC-base\C#\Code\Module1\Phase3\Buoi1.3MachineEventSystem\Buoi1.3MachineEventSystem\obj\Debug\net10.0\Buoi1.3MachineEventSystem.AssemblyInfo.cs
+D:\PC-base\C#\Code\Module1\Phase3\Buoi1.3MachineEventSystem\Buoi1.3MachineEventSystem\obj\Debug\net10.0\Buoi1.3MachineEventSystem.csproj.CoreCompileInputs.cache
+D:\PC-base\C#\Code\Module1\Phase3\Buoi1.3MachineEventSystem\Buoi1.3MachineEventSystem\obj\Debug\net10.0\Buoi1.3MachineEventSystem.sourcelink.json
+D:\PC-base\C#\Code\Module1\Phase3\Buoi1.3MachineEventSystem\Buoi1.3MachineEventSystem\obj\Debug\net10.0\Buoi1.3MachineEventSystem.dll
+D:\PC-base\C#\Code\Module1\Phase3\Buoi1.3MachineEventSystem\Buoi1.3MachineEventSystem\obj\Debug\net10.0\refint\Buoi1.3MachineEventSystem.dll
+D:\PC-base\C#\Code\Module1\Phase3\Buoi1.3MachineEventSystem\Buoi1.3MachineEventSystem\obj\Debug\net10.0\Buoi1.3MachineEventSystem.pdb
+D:\PC-base\C#\Code\Module1\Phase3\Buoi1.3MachineEventSystem\Buoi1.3MachineEventSystem\obj\Debug\net10.0\Buoi1.3MachineEventSystem.genruntimeconfig.cache
+D:\PC-base\C#\Code\Module1\Phase3\Buoi1.3MachineEventSystem\Buoi1.3MachineEventSystem\obj\Debug\net10.0\ref\Buoi1.3MachineEventSystem.dll

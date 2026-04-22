@@ -1,0 +1,15 @@
+D:\PC-base\C#\Code\SafeCalculator\SafeCalculator\bin\Debug\net10.0\SafeCalculator.exe
+D:\PC-base\C#\Code\SafeCalculator\SafeCalculator\bin\Debug\net10.0\SafeCalculator.deps.json
+D:\PC-base\C#\Code\SafeCalculator\SafeCalculator\bin\Debug\net10.0\SafeCalculator.runtimeconfig.json
+D:\PC-base\C#\Code\SafeCalculator\SafeCalculator\bin\Debug\net10.0\SafeCalculator.dll
+D:\PC-base\C#\Code\SafeCalculator\SafeCalculator\bin\Debug\net10.0\SafeCalculator.pdb
+D:\PC-base\C#\Code\SafeCalculator\SafeCalculator\obj\Debug\net10.0\SafeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC-base\C#\Code\SafeCalculator\SafeCalculator\obj\Debug\net10.0\SafeCalculator.AssemblyInfoInputs.cache
+D:\PC-base\C#\Code\SafeCalculator\SafeCalculator\obj\Debug\net10.0\SafeCalculator.AssemblyInfo.cs
+D:\PC-base\C#\Code\SafeCalculator\SafeCalculator\obj\Debug\net10.0\SafeCalculator.csproj.CoreCompileInputs.cache
+D:\PC-base\C#\Code\SafeCalculator\SafeCalculator\obj\Debug\net10.0\SafeCalculator.sourcelink.json
+D:\PC-base\C#\Code\SafeCalculator\SafeCalculator\obj\Debug\net10.0\SafeCalculator.dll
+D:\PC-base\C#\Code\SafeCalculator\SafeCalculator\obj\Debug\net10.0\refint\SafeCalculator.dll
+D:\PC-base\C#\Code\SafeCalculator\SafeCalculator\obj\Debug\net10.0\SafeCalculator.pdb
+D:\PC-base\C#\Code\SafeCalculator\SafeCalculator\obj\Debug\net10.0\SafeCalculator.genruntimeconfig.cache
+D:\PC-base\C#\Code\SafeCalculator\SafeCalculator\obj\Debug\net10.0\ref\SafeCalculator.dll
