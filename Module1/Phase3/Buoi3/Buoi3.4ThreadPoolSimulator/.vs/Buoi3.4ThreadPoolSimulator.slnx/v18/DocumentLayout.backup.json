@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PC-base\\C#\\Code\\Module1\\Phase3\\Buoi3\\Buoi3.4ThreadPoolSimulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB03135-E3BE-36C6-CB26-830EE3F76AAE}|Buoi3.4ThreadPoolSimulator\\Buoi3.4ThreadPoolSimulator.csproj|d:\\pc-base\\c#\\code\\module1\\phase3\\buoi3\\buoi3.4threadpoolsimulator\\buoi3.4threadpoolsimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB03135-E3BE-36C6-CB26-830EE3F76AAE}|Buoi3.4ThreadPoolSimulator\\Buoi3.4ThreadPoolSimulator.csproj|solutionrelative:buoi3.4threadpoolsimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PC-base\\C#\\Code\\Module1\\Phase3\\Buoi3\\Buoi3.4ThreadPoolSimulator\\Buoi3.4ThreadPoolSimulator\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi3.4ThreadPoolSimulator\\Program.cs",
+              "ToolTip": "D:\\PC-base\\C#\\Code\\Module1\\Phase3\\Buoi3\\Buoi3.4ThreadPoolSimulator\\Buoi3.4ThreadPoolSimulator\\Program.cs",
+              "RelativeToolTip": "Buoi3.4ThreadPoolSimulator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T07:16:47.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

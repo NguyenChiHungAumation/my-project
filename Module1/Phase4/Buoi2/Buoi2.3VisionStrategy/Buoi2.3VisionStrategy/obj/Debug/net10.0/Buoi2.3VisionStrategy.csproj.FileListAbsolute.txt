@@ -1,0 +1,15 @@
+D:\PC-base\C#\Code\Module1\Phase4\Buoi2\Buoi2.3VisionStrategy\Buoi2.3VisionStrategy\bin\Debug\net10.0\Buoi2.3VisionStrategy.exe
+D:\PC-base\C#\Code\Module1\Phase4\Buoi2\Buoi2.3VisionStrategy\Buoi2.3VisionStrategy\bin\Debug\net10.0\Buoi2.3VisionStrategy.deps.json
+D:\PC-base\C#\Code\Module1\Phase4\Buoi2\Buoi2.3VisionStrategy\Buoi2.3VisionStrategy\bin\Debug\net10.0\Buoi2.3VisionStrategy.runtimeconfig.json
+D:\PC-base\C#\Code\Module1\Phase4\Buoi2\Buoi2.3VisionStrategy\Buoi2.3VisionStrategy\bin\Debug\net10.0\Buoi2.3VisionStrategy.dll
+D:\PC-base\C#\Code\Module1\Phase4\Buoi2\Buoi2.3VisionStrategy\Buoi2.3VisionStrategy\bin\Debug\net10.0\Buoi2.3VisionStrategy.pdb
+D:\PC-base\C#\Code\Module1\Phase4\Buoi2\Buoi2.3VisionStrategy\Buoi2.3VisionStrategy\obj\Debug\net10.0\Buoi2.3VisionStrategy.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC-base\C#\Code\Module1\Phase4\Buoi2\Buoi2.3VisionStrategy\Buoi2.3VisionStrategy\obj\Debug\net10.0\Buoi2.3VisionStrategy.AssemblyInfoInputs.cache
+D:\PC-base\C#\Code\Module1\Phase4\Buoi2\Buoi2.3VisionStrategy\Buoi2.3VisionStrategy\obj\Debug\net10.0\Buoi2.3VisionStrategy.AssemblyInfo.cs
+D:\PC-base\C#\Code\Module1\Phase4\Buoi2\Buoi2.3VisionStrategy\Buoi2.3VisionStrategy\obj\Debug\net10.0\Buoi2.3VisionStrategy.csproj.CoreCompileInputs.cache
+D:\PC-base\C#\Code\Module1\Phase4\Buoi2\Buoi2.3VisionStrategy\Buoi2.3VisionStrategy\obj\Debug\net10.0\Buoi2.3VisionStrategy.sourcelink.json
+D:\PC-base\C#\Code\Module1\Phase4\Buoi2\Buoi2.3VisionStrategy\Buoi2.3VisionStrategy\obj\Debug\net10.0\Buoi2.3VisionStrategy.dll
+D:\PC-base\C#\Code\Module1\Phase4\Buoi2\Buoi2.3VisionStrategy\Buoi2.3VisionStrategy\obj\Debug\net10.0\refint\Buoi2.3VisionStrategy.dll
+D:\PC-base\C#\Code\Module1\Phase4\Buoi2\Buoi2.3VisionStrategy\Buoi2.3VisionStrategy\obj\Debug\net10.0\Buoi2.3VisionStrategy.pdb
+D:\PC-base\C#\Code\Module1\Phase4\Buoi2\Buoi2.3VisionStrategy\Buoi2.3VisionStrategy\obj\Debug\net10.0\Buoi2.3VisionStrategy.genruntimeconfig.cache
+D:\PC-base\C#\Code\Module1\Phase4\Buoi2\Buoi2.3VisionStrategy\Buoi2.3VisionStrategy\obj\Debug\net10.0\ref\Buoi2.3VisionStrategy.dll

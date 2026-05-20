@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Buoi2.3CallbackChain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce2095a229e7c7e97e94403258e00e63f34ac34b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ef8d1a7638f2039f72f0e5d62a7cc1c0c049906")]
 [assembly: System.Reflection.AssemblyProductAttribute("Buoi2.3CallbackChain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Buoi2.3CallbackChain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

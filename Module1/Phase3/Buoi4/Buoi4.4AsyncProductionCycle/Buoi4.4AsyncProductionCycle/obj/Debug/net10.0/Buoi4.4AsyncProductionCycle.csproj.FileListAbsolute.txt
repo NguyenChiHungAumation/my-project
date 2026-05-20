@@ -1,0 +1,15 @@
+D:\PC-base\C#\Code\Module1\Phase3\Buoi4\Buoi4.4AsyncProductionCycle\Buoi4.4AsyncProductionCycle\bin\Debug\net10.0\Buoi4.4AsyncProductionCycle.exe
+D:\PC-base\C#\Code\Module1\Phase3\Buoi4\Buoi4.4AsyncProductionCycle\Buoi4.4AsyncProductionCycle\bin\Debug\net10.0\Buoi4.4AsyncProductionCycle.deps.json
+D:\PC-base\C#\Code\Module1\Phase3\Buoi4\Buoi4.4AsyncProductionCycle\Buoi4.4AsyncProductionCycle\bin\Debug\net10.0\Buoi4.4AsyncProductionCycle.runtimeconfig.json
+D:\PC-base\C#\Code\Module1\Phase3\Buoi4\Buoi4.4AsyncProductionCycle\Buoi4.4AsyncProductionCycle\bin\Debug\net10.0\Buoi4.4AsyncProductionCycle.dll
+D:\PC-base\C#\Code\Module1\Phase3\Buoi4\Buoi4.4AsyncProductionCycle\Buoi4.4AsyncProductionCycle\bin\Debug\net10.0\Buoi4.4AsyncProductionCycle.pdb
+D:\PC-base\C#\Code\Module1\Phase3\Buoi4\Buoi4.4AsyncProductionCycle\Buoi4.4AsyncProductionCycle\obj\Debug\net10.0\Buoi4.4AsyncProductionCycle.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC-base\C#\Code\Module1\Phase3\Buoi4\Buoi4.4AsyncProductionCycle\Buoi4.4AsyncProductionCycle\obj\Debug\net10.0\Buoi4.4AsyncProductionCycle.AssemblyInfoInputs.cache
+D:\PC-base\C#\Code\Module1\Phase3\Buoi4\Buoi4.4AsyncProductionCycle\Buoi4.4AsyncProductionCycle\obj\Debug\net10.0\Buoi4.4AsyncProductionCycle.AssemblyInfo.cs
+D:\PC-base\C#\Code\Module1\Phase3\Buoi4\Buoi4.4AsyncProductionCycle\Buoi4.4AsyncProductionCycle\obj\Debug\net10.0\Buoi4.4AsyncProductionCycle.csproj.CoreCompileInputs.cache
+D:\PC-base\C#\Code\Module1\Phase3\Buoi4\Buoi4.4AsyncProductionCycle\Buoi4.4AsyncProductionCycle\obj\Debug\net10.0\Buoi4.4AsyncProductionCycle.sourcelink.json
+D:\PC-base\C#\Code\Module1\Phase3\Buoi4\Buoi4.4AsyncProductionCycle\Buoi4.4AsyncProductionCycle\obj\Debug\net10.0\Buoi4.4AsyncProductionCycle.dll
+D:\PC-base\C#\Code\Module1\Phase3\Buoi4\Buoi4.4AsyncProductionCycle\Buoi4.4AsyncProductionCycle\obj\Debug\net10.0\refint\Buoi4.4AsyncProductionCycle.dll
+D:\PC-base\C#\Code\Module1\Phase3\Buoi4\Buoi4.4AsyncProductionCycle\Buoi4.4AsyncProductionCycle\obj\Debug\net10.0\Buoi4.4AsyncProductionCycle.pdb
+D:\PC-base\C#\Code\Module1\Phase3\Buoi4\Buoi4.4AsyncProductionCycle\Buoi4.4AsyncProductionCycle\obj\Debug\net10.0\Buoi4.4AsyncProductionCycle.genruntimeconfig.cache
+D:\PC-base\C#\Code\Module1\Phase3\Buoi4\Buoi4.4AsyncProductionCycle\Buoi4.4AsyncProductionCycle\obj\Debug\net10.0\ref\Buoi4.4AsyncProductionCycle.dll

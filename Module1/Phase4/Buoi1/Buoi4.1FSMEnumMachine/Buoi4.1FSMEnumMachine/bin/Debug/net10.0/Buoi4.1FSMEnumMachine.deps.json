@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Buoi4.1FSMEnumMachine/1.0.0": {
+        "runtime": {
+          "Buoi4.1FSMEnumMachine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Buoi4.1FSMEnumMachine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.4VisionPipelineScheduler\Buoi5.4VisionPipelineScheduler\bin\Debug\net10.0\Buoi5.4VisionPipelineScheduler.exe
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.4VisionPipelineScheduler\Buoi5.4VisionPipelineScheduler\bin\Debug\net10.0\Buoi5.4VisionPipelineScheduler.deps.json
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.4VisionPipelineScheduler\Buoi5.4VisionPipelineScheduler\bin\Debug\net10.0\Buoi5.4VisionPipelineScheduler.runtimeconfig.json
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.4VisionPipelineScheduler\Buoi5.4VisionPipelineScheduler\bin\Debug\net10.0\Buoi5.4VisionPipelineScheduler.dll
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.4VisionPipelineScheduler\Buoi5.4VisionPipelineScheduler\bin\Debug\net10.0\Buoi5.4VisionPipelineScheduler.pdb
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.4VisionPipelineScheduler\Buoi5.4VisionPipelineScheduler\obj\Debug\net10.0\Buoi5.4VisionPipelineScheduler.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.4VisionPipelineScheduler\Buoi5.4VisionPipelineScheduler\obj\Debug\net10.0\Buoi5.4VisionPipelineScheduler.AssemblyInfoInputs.cache
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.4VisionPipelineScheduler\Buoi5.4VisionPipelineScheduler\obj\Debug\net10.0\Buoi5.4VisionPipelineScheduler.AssemblyInfo.cs
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.4VisionPipelineScheduler\Buoi5.4VisionPipelineScheduler\obj\Debug\net10.0\Buoi5.4VisionPipelineScheduler.csproj.CoreCompileInputs.cache
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.4VisionPipelineScheduler\Buoi5.4VisionPipelineScheduler\obj\Debug\net10.0\Buoi5.4VisionPipelineScheduler.sourcelink.json
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.4VisionPipelineScheduler\Buoi5.4VisionPipelineScheduler\obj\Debug\net10.0\Buoi5.4VisionPipelineScheduler.dll
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.4VisionPipelineScheduler\Buoi5.4VisionPipelineScheduler\obj\Debug\net10.0\refint\Buoi5.4VisionPipelineScheduler.dll
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.4VisionPipelineScheduler\Buoi5.4VisionPipelineScheduler\obj\Debug\net10.0\Buoi5.4VisionPipelineScheduler.pdb
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.4VisionPipelineScheduler\Buoi5.4VisionPipelineScheduler\obj\Debug\net10.0\Buoi5.4VisionPipelineScheduler.genruntimeconfig.cache
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.4VisionPipelineScheduler\Buoi5.4VisionPipelineScheduler\obj\Debug\net10.0\ref\Buoi5.4VisionPipelineScheduler.dll

@@ -1,0 +1,15 @@
+D:\PC-base\C#\Code\Module1\Phase3\Buoi3\Buoi3.4ThreadPoolSimulator\Buoi3.4ThreadPoolSimulator\bin\Debug\net10.0\Buoi3.4ThreadPoolSimulator.exe
+D:\PC-base\C#\Code\Module1\Phase3\Buoi3\Buoi3.4ThreadPoolSimulator\Buoi3.4ThreadPoolSimulator\bin\Debug\net10.0\Buoi3.4ThreadPoolSimulator.deps.json
+D:\PC-base\C#\Code\Module1\Phase3\Buoi3\Buoi3.4ThreadPoolSimulator\Buoi3.4ThreadPoolSimulator\bin\Debug\net10.0\Buoi3.4ThreadPoolSimulator.runtimeconfig.json
+D:\PC-base\C#\Code\Module1\Phase3\Buoi3\Buoi3.4ThreadPoolSimulator\Buoi3.4ThreadPoolSimulator\bin\Debug\net10.0\Buoi3.4ThreadPoolSimulator.dll
+D:\PC-base\C#\Code\Module1\Phase3\Buoi3\Buoi3.4ThreadPoolSimulator\Buoi3.4ThreadPoolSimulator\bin\Debug\net10.0\Buoi3.4ThreadPoolSimulator.pdb
+D:\PC-base\C#\Code\Module1\Phase3\Buoi3\Buoi3.4ThreadPoolSimulator\Buoi3.4ThreadPoolSimulator\obj\Debug\net10.0\Buoi3.4ThreadPoolSimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC-base\C#\Code\Module1\Phase3\Buoi3\Buoi3.4ThreadPoolSimulator\Buoi3.4ThreadPoolSimulator\obj\Debug\net10.0\Buoi3.4ThreadPoolSimulator.AssemblyInfoInputs.cache
+D:\PC-base\C#\Code\Module1\Phase3\Buoi3\Buoi3.4ThreadPoolSimulator\Buoi3.4ThreadPoolSimulator\obj\Debug\net10.0\Buoi3.4ThreadPoolSimulator.AssemblyInfo.cs
+D:\PC-base\C#\Code\Module1\Phase3\Buoi3\Buoi3.4ThreadPoolSimulator\Buoi3.4ThreadPoolSimulator\obj\Debug\net10.0\Buoi3.4ThreadPoolSimulator.csproj.CoreCompileInputs.cache
+D:\PC-base\C#\Code\Module1\Phase3\Buoi3\Buoi3.4ThreadPoolSimulator\Buoi3.4ThreadPoolSimulator\obj\Debug\net10.0\Buoi3.4ThreadPoolSimulator.sourcelink.json
+D:\PC-base\C#\Code\Module1\Phase3\Buoi3\Buoi3.4ThreadPoolSimulator\Buoi3.4ThreadPoolSimulator\obj\Debug\net10.0\Buoi3.4ThreadPoolSimulator.dll
+D:\PC-base\C#\Code\Module1\Phase3\Buoi3\Buoi3.4ThreadPoolSimulator\Buoi3.4ThreadPoolSimulator\obj\Debug\net10.0\refint\Buoi3.4ThreadPoolSimulator.dll
+D:\PC-base\C#\Code\Module1\Phase3\Buoi3\Buoi3.4ThreadPoolSimulator\Buoi3.4ThreadPoolSimulator\obj\Debug\net10.0\Buoi3.4ThreadPoolSimulator.pdb
+D:\PC-base\C#\Code\Module1\Phase3\Buoi3\Buoi3.4ThreadPoolSimulator\Buoi3.4ThreadPoolSimulator\obj\Debug\net10.0\Buoi3.4ThreadPoolSimulator.genruntimeconfig.cache
+D:\PC-base\C#\Code\Module1\Phase3\Buoi3\Buoi3.4ThreadPoolSimulator\Buoi3.4ThreadPoolSimulator\obj\Debug\net10.0\ref\Buoi3.4ThreadPoolSimulator.dll

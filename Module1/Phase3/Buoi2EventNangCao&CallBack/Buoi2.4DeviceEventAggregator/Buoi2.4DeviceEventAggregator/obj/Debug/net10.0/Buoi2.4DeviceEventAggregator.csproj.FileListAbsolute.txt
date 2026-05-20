@@ -1,0 +1,15 @@
+D:\PC-base\C#\Code\Module1\Phase3\Buoi2EventNangCao&CallBack\Buoi2.4DeviceEventAggregator\Buoi2.4DeviceEventAggregator\bin\Debug\net10.0\Buoi2.4DeviceEventAggregator.exe
+D:\PC-base\C#\Code\Module1\Phase3\Buoi2EventNangCao&CallBack\Buoi2.4DeviceEventAggregator\Buoi2.4DeviceEventAggregator\bin\Debug\net10.0\Buoi2.4DeviceEventAggregator.deps.json
+D:\PC-base\C#\Code\Module1\Phase3\Buoi2EventNangCao&CallBack\Buoi2.4DeviceEventAggregator\Buoi2.4DeviceEventAggregator\bin\Debug\net10.0\Buoi2.4DeviceEventAggregator.runtimeconfig.json
+D:\PC-base\C#\Code\Module1\Phase3\Buoi2EventNangCao&CallBack\Buoi2.4DeviceEventAggregator\Buoi2.4DeviceEventAggregator\bin\Debug\net10.0\Buoi2.4DeviceEventAggregator.dll
+D:\PC-base\C#\Code\Module1\Phase3\Buoi2EventNangCao&CallBack\Buoi2.4DeviceEventAggregator\Buoi2.4DeviceEventAggregator\bin\Debug\net10.0\Buoi2.4DeviceEventAggregator.pdb
+D:\PC-base\C#\Code\Module1\Phase3\Buoi2EventNangCao&CallBack\Buoi2.4DeviceEventAggregator\Buoi2.4DeviceEventAggregator\obj\Debug\net10.0\Buoi2.4DeviceEventAggregator.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC-base\C#\Code\Module1\Phase3\Buoi2EventNangCao&CallBack\Buoi2.4DeviceEventAggregator\Buoi2.4DeviceEventAggregator\obj\Debug\net10.0\Buoi2.4DeviceEventAggregator.AssemblyInfoInputs.cache
+D:\PC-base\C#\Code\Module1\Phase3\Buoi2EventNangCao&CallBack\Buoi2.4DeviceEventAggregator\Buoi2.4DeviceEventAggregator\obj\Debug\net10.0\Buoi2.4DeviceEventAggregator.AssemblyInfo.cs
+D:\PC-base\C#\Code\Module1\Phase3\Buoi2EventNangCao&CallBack\Buoi2.4DeviceEventAggregator\Buoi2.4DeviceEventAggregator\obj\Debug\net10.0\Buoi2.4DeviceEventAggregator.csproj.CoreCompileInputs.cache
+D:\PC-base\C#\Code\Module1\Phase3\Buoi2EventNangCao&CallBack\Buoi2.4DeviceEventAggregator\Buoi2.4DeviceEventAggregator\obj\Debug\net10.0\Buoi2.4DeviceEventAggregator.sourcelink.json
+D:\PC-base\C#\Code\Module1\Phase3\Buoi2EventNangCao&CallBack\Buoi2.4DeviceEventAggregator\Buoi2.4DeviceEventAggregator\obj\Debug\net10.0\Buoi2.4DeviceEventAggregator.dll
+D:\PC-base\C#\Code\Module1\Phase3\Buoi2EventNangCao&CallBack\Buoi2.4DeviceEventAggregator\Buoi2.4DeviceEventAggregator\obj\Debug\net10.0\refint\Buoi2.4DeviceEventAggregator.dll
+D:\PC-base\C#\Code\Module1\Phase3\Buoi2EventNangCao&CallBack\Buoi2.4DeviceEventAggregator\Buoi2.4DeviceEventAggregator\obj\Debug\net10.0\Buoi2.4DeviceEventAggregator.pdb
+D:\PC-base\C#\Code\Module1\Phase3\Buoi2EventNangCao&CallBack\Buoi2.4DeviceEventAggregator\Buoi2.4DeviceEventAggregator\obj\Debug\net10.0\Buoi2.4DeviceEventAggregator.genruntimeconfig.cache
+D:\PC-base\C#\Code\Module1\Phase3\Buoi2EventNangCao&CallBack\Buoi2.4DeviceEventAggregator\Buoi2.4DeviceEventAggregator\obj\Debug\net10.0\ref\Buoi2.4DeviceEventAggregator.dll

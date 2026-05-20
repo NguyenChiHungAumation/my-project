@@ -1,0 +1,15 @@
+D:\PC-base\C#\Code\Module1\Phase4\Buoi1\Buoi4.1FSMEnumMachine\Buoi4.1FSMEnumMachine\bin\Debug\net10.0\Buoi4.1FSMEnumMachine.exe
+D:\PC-base\C#\Code\Module1\Phase4\Buoi1\Buoi4.1FSMEnumMachine\Buoi4.1FSMEnumMachine\bin\Debug\net10.0\Buoi4.1FSMEnumMachine.deps.json
+D:\PC-base\C#\Code\Module1\Phase4\Buoi1\Buoi4.1FSMEnumMachine\Buoi4.1FSMEnumMachine\bin\Debug\net10.0\Buoi4.1FSMEnumMachine.runtimeconfig.json
+D:\PC-base\C#\Code\Module1\Phase4\Buoi1\Buoi4.1FSMEnumMachine\Buoi4.1FSMEnumMachine\bin\Debug\net10.0\Buoi4.1FSMEnumMachine.dll
+D:\PC-base\C#\Code\Module1\Phase4\Buoi1\Buoi4.1FSMEnumMachine\Buoi4.1FSMEnumMachine\bin\Debug\net10.0\Buoi4.1FSMEnumMachine.pdb
+D:\PC-base\C#\Code\Module1\Phase4\Buoi1\Buoi4.1FSMEnumMachine\Buoi4.1FSMEnumMachine\obj\Debug\net10.0\Buoi4.1FSMEnumMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC-base\C#\Code\Module1\Phase4\Buoi1\Buoi4.1FSMEnumMachine\Buoi4.1FSMEnumMachine\obj\Debug\net10.0\Buoi4.1FSMEnumMachine.AssemblyInfoInputs.cache
+D:\PC-base\C#\Code\Module1\Phase4\Buoi1\Buoi4.1FSMEnumMachine\Buoi4.1FSMEnumMachine\obj\Debug\net10.0\Buoi4.1FSMEnumMachine.AssemblyInfo.cs
+D:\PC-base\C#\Code\Module1\Phase4\Buoi1\Buoi4.1FSMEnumMachine\Buoi4.1FSMEnumMachine\obj\Debug\net10.0\Buoi4.1FSMEnumMachine.csproj.CoreCompileInputs.cache
+D:\PC-base\C#\Code\Module1\Phase4\Buoi1\Buoi4.1FSMEnumMachine\Buoi4.1FSMEnumMachine\obj\Debug\net10.0\Buoi4.1FSMEnumMachine.sourcelink.json
+D:\PC-base\C#\Code\Module1\Phase4\Buoi1\Buoi4.1FSMEnumMachine\Buoi4.1FSMEnumMachine\obj\Debug\net10.0\Buoi4.1FSMEnumMachine.dll
+D:\PC-base\C#\Code\Module1\Phase4\Buoi1\Buoi4.1FSMEnumMachine\Buoi4.1FSMEnumMachine\obj\Debug\net10.0\refint\Buoi4.1FSMEnumMachine.dll
+D:\PC-base\C#\Code\Module1\Phase4\Buoi1\Buoi4.1FSMEnumMachine\Buoi4.1FSMEnumMachine\obj\Debug\net10.0\Buoi4.1FSMEnumMachine.pdb
+D:\PC-base\C#\Code\Module1\Phase4\Buoi1\Buoi4.1FSMEnumMachine\Buoi4.1FSMEnumMachine\obj\Debug\net10.0\Buoi4.1FSMEnumMachine.genruntimeconfig.cache
+D:\PC-base\C#\Code\Module1\Phase4\Buoi1\Buoi4.1FSMEnumMachine\Buoi4.1FSMEnumMachine\obj\Debug\net10.0\ref\Buoi4.1FSMEnumMachine.dll

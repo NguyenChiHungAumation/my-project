@@ -1,0 +1,15 @@
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.2ConcurrentCounter\Buoi5.2ConcurrentCounter\bin\Debug\net10.0\Buoi5.2ConcurrentCounter.exe
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.2ConcurrentCounter\Buoi5.2ConcurrentCounter\bin\Debug\net10.0\Buoi5.2ConcurrentCounter.deps.json
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.2ConcurrentCounter\Buoi5.2ConcurrentCounter\bin\Debug\net10.0\Buoi5.2ConcurrentCounter.runtimeconfig.json
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.2ConcurrentCounter\Buoi5.2ConcurrentCounter\bin\Debug\net10.0\Buoi5.2ConcurrentCounter.dll
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.2ConcurrentCounter\Buoi5.2ConcurrentCounter\bin\Debug\net10.0\Buoi5.2ConcurrentCounter.pdb
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.2ConcurrentCounter\Buoi5.2ConcurrentCounter\obj\Debug\net10.0\Buoi5.2ConcurrentCounter.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.2ConcurrentCounter\Buoi5.2ConcurrentCounter\obj\Debug\net10.0\Buoi5.2ConcurrentCounter.AssemblyInfoInputs.cache
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.2ConcurrentCounter\Buoi5.2ConcurrentCounter\obj\Debug\net10.0\Buoi5.2ConcurrentCounter.AssemblyInfo.cs
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.2ConcurrentCounter\Buoi5.2ConcurrentCounter\obj\Debug\net10.0\Buoi5.2ConcurrentCounter.csproj.CoreCompileInputs.cache
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.2ConcurrentCounter\Buoi5.2ConcurrentCounter\obj\Debug\net10.0\Buoi5.2ConcurrentCounter.sourcelink.json
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.2ConcurrentCounter\Buoi5.2ConcurrentCounter\obj\Debug\net10.0\Buoi5.2ConcurrentCounter.dll
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.2ConcurrentCounter\Buoi5.2ConcurrentCounter\obj\Debug\net10.0\refint\Buoi5.2ConcurrentCounter.dll
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.2ConcurrentCounter\Buoi5.2ConcurrentCounter\obj\Debug\net10.0\Buoi5.2ConcurrentCounter.pdb
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.2ConcurrentCounter\Buoi5.2ConcurrentCounter\obj\Debug\net10.0\Buoi5.2ConcurrentCounter.genruntimeconfig.cache
+D:\PC-base\C#\Code\Module1\Phase3\Buoi5\Buoi5.2ConcurrentCounter\Buoi5.2ConcurrentCounter\obj\Debug\net10.0\ref\Buoi5.2ConcurrentCounter.dll

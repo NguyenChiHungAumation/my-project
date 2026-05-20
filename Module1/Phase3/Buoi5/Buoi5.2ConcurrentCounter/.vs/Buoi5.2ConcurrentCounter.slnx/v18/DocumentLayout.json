@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PC-base\\C#\\Code\\Module1\\Phase3\\Buoi5\\Buoi5.2ConcurrentCounter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5DEE6D-5EBF-6749-1B5C-696E691EC5CD}|Buoi5.2ConcurrentCounter\\Buoi5.2ConcurrentCounter.csproj|d:\\pc-base\\c#\\code\\module1\\phase3\\buoi5\\buoi5.2concurrentcounter\\buoi5.2concurrentcounter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5DEE6D-5EBF-6749-1B5C-696E691EC5CD}|Buoi5.2ConcurrentCounter\\Buoi5.2ConcurrentCounter.csproj|solutionrelative:buoi5.2concurrentcounter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PC-base\\C#\\Code\\Module1\\Phase3\\Buoi5\\Buoi5.2ConcurrentCounter\\Buoi5.2ConcurrentCounter\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi5.2ConcurrentCounter\\Program.cs",
+              "ToolTip": "D:\\PC-base\\C#\\Code\\Module1\\Phase3\\Buoi5\\Buoi5.2ConcurrentCounter\\Buoi5.2ConcurrentCounter\\Program.cs",
+              "RelativeToolTip": "Buoi5.2ConcurrentCounter\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T08:04:27.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Buoi1.2OOP/1.0.0": {
+        "runtime": {
+          "Buoi1.2OOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Buoi1.2OOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
